@@ -156,3 +156,7 @@ Logs are stored in `scraper.log` with detailed information about:
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
+
+## Contact
+
+If you have any custom requirements or need assistance, feel free to get in touch at rohit.paul@excelloite.com
